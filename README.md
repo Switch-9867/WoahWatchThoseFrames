@@ -1,4 +1,4 @@
-# WoahWatchThoseFrames
+# Woah Watch Those Frames
 
 ## This is a mod for the game [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/), it can be loaded using [Outer Wilds Mod Manager.](https://outerwildsmods.com/)
 
