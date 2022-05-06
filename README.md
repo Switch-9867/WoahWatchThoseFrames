@@ -8,9 +8,7 @@
 This mod limits the FPS of the game to 30 when paused, keeping your computer from exploding.
 This mod is useful for players who prefer to keep vSync off but dont want their Ultra-fast gaming rig to work its little heart out ripping through thousands of FPS in the pause menu.
 
-Activate by pressing `p` on your keyboard.
-
 ### TO-DO
 
-* Add settings-menu configuraion.
-* Add controller support.
+* Add configuraion menu to allow changing menu fps cap.
+* Add toggle-able fps counter.
